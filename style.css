@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#identification{
+	color: white;
+	background: black;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+	background: black;
+	height: 5vh;
+	text-align: center;
+}
+
+ul li{
+	display: inline-block;
+	width: 49%;
+	background: black;
+	height: 100%;
+}
+
+button{
+	width: 100%;
+	height: 100%;
+	border: none;
+	background: green;
+	color: white;
+}
+
+input{
+	background: #4B4B4C;
+	border: none;
+	border-bottom: solid;
+	border-color: white;
+	color: white;
+}
